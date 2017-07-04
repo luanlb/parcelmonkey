@@ -1,6 +1,6 @@
 {
-    "name": "luanlb/pmuk-sdk",
-    "description": "PHP SDK for the Parcel Monkey UK API",
+    "name": "luanlb/palcel-monkey",
+    "description": "Laravel package for the Parcel Monkey UK API",
     "type": "library",
     "require": {
         "php": ">=5.6.0"
