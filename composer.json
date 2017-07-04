@@ -1,5 +1,5 @@
 {
-    "name": "luanlb/palcel-monkey",
+    "name": "luanlb/parcel-monkey",
     "description": "Laravel package for the Parcel Monkey UK API",
     "type": "library",
     "require": {
